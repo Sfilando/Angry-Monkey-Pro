@@ -2,6 +2,10 @@
 "Tabs":
  [
    {
+   "Title": "Highlights",
+   "Path": ["/Work-Highlights-2022.md"]
+   },
+   {
    "Title": "Process",
    "Path": ["/Logo-Process-2022.md"]
   },
@@ -12,10 +16,6 @@
   {
    "Title": "Packages",
    "Path": ["/Logo-Packages-2022.md"]
-   },
-  {
-   "Title": "Highlights",
-   "Path": ["/Work-Highlights-2022.md"]
    }
  ]
 }
